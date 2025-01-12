@@ -1,4 +1,5 @@
 <div style="display:none">
+<a href="https://presensi.unwim.ac.id/ayokgas/">https://presensi.unwim.ac.id/ayokgas/</a>
 <a href="https://majupantangmundur.pro/">https://majupantangmundur.pro/</a>
 <a href="https://heylink.me/jandagacormantap">https://heylink.me/jandagacormantap</a>
 <a href="https://journal.unuha.ac.id/ayokgas/">https://journal.unuha.ac.id/ayokgas/</a>
@@ -13,8 +14,4 @@
 <a href="https://joanneencarnacion.velasresorts.com/">https://joanneencarnacion.velasresorts.com/</a>
 <a href="https://ndt.pnec.nust.edu.pk/">https://ndt.pnec.nust.edu.pk/</a>
 <a href="https://bsdmadum.umtas.ac.id/ayokgas/">https://bsdmadum.umtas.ac.id/ayokgas/</a>
-<a href="https://olympiad.pnec.nust.edu.pk/">https://olympiad.pnec.nust.edu.pk/</a>
-<a href="https://sso.cbt.stisi.ac.id/">https://sso.cbt.stisi.ac.id/</a>
-<a href="https://sto.cbt.stisi.ac.id/">https://sto.cbt.stisi.ac.id/</a>
-<a href="https://ti.cbt.stisi.ac.id/">https://ti.cbt.stisi.ac.id/</a>
 </div>
