@@ -1,4 +1,6 @@
 <div style="display:none">
+<a href="https://cbt.masmubata-bata.com/">https://cbt.masmubata-bata.com/</a>
+<a href="https://app.masmubata-bata.com/">https://app.masmubata-bata.com/</a>
 <a href="https://masmubata-bata.com/">https://masmubata-bata.com/</a>
 <a href="https://clubvelas.velasresorts.com/">https://clubvelas.velasresorts.com/</a>
 <a href="https://bestoffrance.velasresorts.com/">https://bestoffrance.velasresorts.com/</a>
