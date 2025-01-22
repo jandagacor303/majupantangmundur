@@ -1,4 +1,5 @@
 <div style="display:none">
+<a href="https://siakad.akimal.ac.id/">https://siakad.akimal.ac.id/</a>
 <a href="https://cbt.masmubata-bata.com/">https://cbt.masmubata-bata.com/</a>
 <a href="https://app.masmubata-bata.com/">https://app.masmubata-bata.com/</a>
 <a href="https://masmubata-bata.com/">https://masmubata-bata.com/</a>
