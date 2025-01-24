@@ -1,5 +1,9 @@
 <div style="display:none">
-<a href="https://dprd.musirawaskab.go.id/">https://dprd.musirawaskab.go.id/</a>
+<a href="https://dprd.musirawaskab.go.id/togelcambodia/">https://dprd.musirawaskab.go.id/togelcambodia/</a>
+<a href="https://dprd.musirawaskab.go.id/togeljepang/">https://dprd.musirawaskab.go.id/togeljepang/</a>
+<a href="https://dprd.musirawaskab.go.id/togeltaiwan/">https://dprd.musirawaskab.go.id/togeltaiwan/</a>
+<a href="https://dprd.musirawaskab.go.id/togeljakarta/">https://dprd.musirawaskab.go.id/togeljakarta/</a>
+<a href="https://dprd.musirawaskab.go.id/togelvietnam/">https://dprd.musirawaskab.go.id/togelvietnam/</a>
 <a href="https://siakad.akimal.ac.id/">https://siakad.akimal.ac.id/</a>
 <a href="https://cbt.masmubata-bata.com/">https://cbt.masmubata-bata.com/</a>
 <a href="https://app.masmubata-bata.com/">https://app.masmubata-bata.com/</a>
